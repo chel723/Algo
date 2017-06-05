@@ -1,0 +1,342 @@
+1,Château de Vincennes,Bérault,0.9080569699384897,
+2,Bérault,Saint-Mandé,0.6833303372050326,
+3,Saint-Mandé,Porte de Vincennes,0.6049775775247427,
+4,Porte de Vincennes,Nation,0.9453853912884307
+5,Nation,Reuilly-Diderot,0.8938372311841434
+6,Reuilly-Diderot,Gare de Lyon,0.9284973805786,
+7,Gare de Lyon,Bastille,0.8807503030461682,
+8,Bastille,Saint-Paul (Le Marais),0.6247841783223118
+9,Saint-Paul (Le Marais),Hôtel de Ville,0.7211129692256505
+10,Hôtel de Ville,Châtelet,0.33158986206222646
+11,Châtelet,Louvre-Rivoli,0.5702645989953452
+12,Louvre-Rivoli,Palais-Royal (Musée du Louvre),0.362072588833165
+13,Palais-Royal (Musée du Louvre),Tuileries,0.6090623175115577
+14,Tuileries,Concorde,0.5864857106027315
+15,Concorde,Champs-Elysées-Clémenceau,0.5659046188275552
+16,Champs-Elysées-Clémenceau,Franklin-Roosevelt,0.31611440087642323
+17,Franklin-Roosevelt,George V,0.771368534983324
+18,George V,Charles de Gaulle-Etoile,0.4628156146119945
+19,Charles de Gaulle-Etoile,Argentine,0.4584952136461849
+20,Argentine,Porte Maillot,0.5725006105056674
+21,Porte Maillot,Les Sablons (Jardin d'acclimatation),0.8539606777299035
+22,Les Sablons (Jardin d'acclimatation),Pont de Neuilly,1.0848979993721488
+23,Pont de Neuilly,Esplanade de la Défense,0.7035687844157573
+24,Esplanade de la Défense,La Défense (Grande Arche),0.9546607672789711
+25,Nation,Avron,0.21591612245448877
+26,Avron,Alexandre-Dumas,0.6412274247201298
+27,Alexandre-Dumas,Philippe Auguste,0.41405335073342403
+28,Philippe Auguste,Père-Lachaise,0.5617095448319734
+29,Père-Lachaise,Ménilmontant,0.3506144670940124
+30,Ménilmontant,Couronnes,0.4933453893938124
+31,Couronnes,Belleville,0.4305459347655797
+32,Belleville,Colonel Fabien,0.8126371684692205
+33,Colonel Fabien,Jaurès,0.509919056230654
+34,Jaurès,Stalingrad,0.2653184680955095
+35,Stalingrad,La Chapelle,0.5673678285580701
+36,La Chapelle,Barbès-Rochechouart,0.7167741780497474
+37,Barbès-Rochechouart,Anvers,0.4027450089304424
+38,Anvers,Pigalle,0.5076314368618551
+39,Pigalle,Blanche,0.37958327719185186
+40,Blanche,Place de Clichy,0.37527701536795616
+41,Place de Clichy,Rome,0.5328543932861409
+42,Rome,Villiers,0.29010067079864665
+43,Villiers,Monceau,0.5316050900260991
+44,Monceau,Courcelles,0.470257136512325
+45,Courcelles,Ternes,0.3959740683106623
+46,Ternes,Charles de Gaulle-Etoile,0.5343958846726261
+47,Charles de Gaulle-Etoile,Victor Hugo,0.8289607364804547
+48,Victor Hugo,Porte Dauphine (Maréchal de Lattre de Tassigny),0.787145628904649
+49,Gallieni (Parc de Bagnolet),Porte de Bagnolet,0.5364553475583314
+50,Porte de Bagnolet,Gambetta,0.760831601568871
+51,Gambetta,Père-Lachaise,0.8694229707036456
+52,Père-Lachaise,Rue Saint-Maur,0.4564147207889836
+53,Rue Saint-Maur,Parmentier,0.46777604660891264
+54,Parmentier,République,0.8149402425177711
+55,République,Temple,0.1885363026292662
+56,Temple,Arts-et-Métiers,0.42171455302393557
+57,Arts-et-Métiers,Réaumur-Sébastopol,0.27712582686648307
+58,Réaumur-Sébastopol,Sentier,0.3788460313573878
+59,Sentier,Bourse,0.5280220981159746
+60,Bourse,Quatre Septembre,0.33318798575778685
+61,Quatre Septembre,Opéra,0.3204084292709582
+62,Opéra,Havre-Caumartin,0.4111814874066187
+63,Havre-Caumartin,Saint-Lazare,0.32487362657621477
+64,Saint-Lazare,Europe,0.4216323791584647
+65,Europe,Villiers,0.5632172482790136
+66,Villiers,Malesherbes,0.39617709188634687
+67,Malesherbes,Wagram,0.4195010143711141
+68,Wagram,Pereire,0.6330430411703134
+69,Pereire,Porte de Champerret,0.393597600055612
+70,Porte de Champerret,Louise Michel,0.4811502247554979
+71,Louise Michel,Anatole-France,0.35755676992682267
+72,Anatole-France,Pont de Levallois-Bécon,0.683114980807183
+73,Porte de Clignancourt,Simplon,0.4895168453577338
+74,Simplon,Marcadet-Poissonniers,0.3262059844614284
+75,Marcadet-Poissonniers,Château Rouge,0.49564395367110153
+76,Château Rouge,Barbès-Rochechouart,0.35075056376732955
+77,Barbès-Rochechouart,Gare du Nord,0.6033261770437212
+78,Gare du Nord,Gare de l'Est (Verdun),0.41989543718512296
+79,Gare de l'Est (Verdun),Château d'Eau,0.49243081785931725
+80,Château d'Eau,Strasbourg-Saint-Denis,0.333706080162157
+81,Strasbourg-Saint-Denis,Réaumur-Sébastopol,0.42176403127807066
+82,Réaumur-Sébastopol,Etienne Marcel,0.37186239310978814
+83,Etienne Marcel,Les Halles,0.26321804368731905
+84,Les Halles,Châtelet,0.4250430675930994
+85,Châtelet,Cité,0.31518400740299624
+86,Cité,Saint-Michel,0.2824983190023168
+87,Saint-Michel,Odéon,0.412236017049836
+88,Odéon,Saint-Germain des Prés,0.44188591974673874
+89,Saint-Germain des Prés,Saint-Sulpice,0.29780349679648505
+90,Saint-Sulpice,Saint-Placide,0.5413765148559316
+91,Saint-Placide,Montparnasse-Bienvenue,0.36750695944221196
+92,Montparnasse-Bienvenue,Vavin,0.4011991012781531
+93,Vavin,Raspail,0.3435284358304577
+94,Raspail,Denfert-Rochereau,0.5571934788840366
+95,Denfert-Rochereau,Mouton-Duvernet,0.2665540812057071
+96,Mouton-Duvernet,Alésia,0.528274248034825
+97,Alésia,Porte d'Orléans (Général Leclerc),0.5975986606671795
+98,Porte d'Orléans (Général Leclerc),Mairie de Montrouge,0.6261082623797335
+99,Bobigny-Pablo-Picasso,Bobigny-Pantin (Raymond Queneau),2.196614917464255
+100,Bobigny-Pantin (Raymond Queneau),Eglise de Pantin,0.90666433439997
+101,Eglise de Pantin,Hoche,0.7529482468158503
+102,Hoche,Porte de Pantin,0.8469007402737314
+103,Porte de Pantin,Ourcq,0.46022965476331185
+104,Ourcq,Laumière,0.5958292952637552
+105,Laumière,Jaurès,0.6625176716993921
+106,Jaurès,Stalingrad,0.2754974196786228
+107,Stalingrad,Gare du Nord,0.9625513405145628
+108,Gare du Nord,Gare de l'Est (Verdun),0.31715430773197983
+109,Gare de l'Est (Verdun),Jacques-Bonsergent,0.7005560669312272
+110,Jacques-Bonsergent,République,0.4167978779664684
+111,République,Oberkampf,0.4058811538579706
+112,Oberkampf,Richard-Lenoir,0.5904035971592512
+113,Richard-Lenoir,Bréguet-Sabin,0.45180629443928594
+114,Bréguet-Sabin,Bastille,0.39370649021546295
+115,Bastille,Quai de la Rapée,0.8416471739880719
+116,Quai de la Rapée,Gare d'Austerlitz,0.34678406367396997
+117,Gare d'Austerlitz,Saint-Marcel,0.6005626691092347
+118,Saint-Marcel,Campo-Formio,0.36003797118836395
+119,Campo-Formio,Place d'Italie,0.5324157419999367
+120,Nation,Picpus,0.37748385858254063
+121,Picpus,Bel-Air,0.4378247386547953
+122,Bel-Air,Daumesnil (Félix Eboué),0.43646517457632217
+123,Daumesnil (Félix Eboué),Dugommier,0.4746143878670951
+124,Dugommier,Bercy,0.7369867895766647
+125,Bercy,Quai de la Gare,0.501602203685188
+126,Quai de la Gare,Chevaleret,0.5143497751492437
+127,Chevaleret,Nationale,0.5083237295631032
+128,Nationale,Place d'Italie,0.4887906435253454
+129,Place d'Italie,Corvisart,0.40331488183647846
+130,Corvisart,Glacière,0.5701888821976554
+131,Glacière,Saint-Jacques,0.5096223448209507
+132,Saint-Jacques,Denfert-Rochereau,0.27582306320878136
+133,Denfert-Rochereau,Raspail,0.5740576584711145
+134,Raspail,Edgar-Quinet,0.3649467080466934
+135,Edgar-Quinet,Montparnasse-Bienvenue,0.4054160420377039
+136,Montparnasse-Bienvenue,Pasteur,0.5811281963379277
+137,Pasteur,Sèvres-Lecourbe,0.3762057542136892
+138,Sèvres-Lecourbe,Cambronne,0.712299147574533
+139,Cambronne,La Motte-Picquet-Grenelle,0.34564149936004746
+140,La Motte-Picquet-Grenelle,Dupleix,0.3375297868983107
+141,Dupleix,Bir-Hakeim (Grenelle),0.5627607246417022
+142,Bir-Hakeim (Grenelle),Passy,0.427280212786545
+143,Passy,Trocadéro,0.583617516944376
+144,Trocadéro,Boissière,0.508104654961105
+145,Boissière,Kléber,0.550294997457793
+146,Kléber,Charles de Gaulle-Etoile,0.2875215353808673
+147,La Courneuve-8-Mai-1945,Fort d'Aubervilliers,0.8669699164744807
+148,Fort d'Aubervilliers,Aubervilliers Pantin (4 Chemins),1.3904849058063105
+149,Aubervilliers Pantin (4 Chemins),Porte de la Villette,0.8666775593969983
+150,Porte de la Villette,Corentin-Cariou,0.39991705147722617
+151,Corentin-Cariou,Crimée,0.6337301696506397
+152,Crimée,Riquet,0.27171132006636006
+153,Riquet,Stalingrad,0.6295161171745616
+154,Stalingrad,Louis Blanc,0.44727754865088193
+155,Louis Blanc,Château Landon,0.351699741603799
+156,Château Landon,Gare de l'Est (Verdun),0.31892908232020223
+157,Gare de l'Est (Verdun),Poissonnière,0.7100997466341112
+158,Poissonnière,Cadet,0.47296181999961273
+159,Cadet,Le Peletier,0.2521194533899218
+160,Le Peletier,Chaussée d'Antin (La Fayette),0.539081545831086
+161,Chaussée d'Antin (La Fayette),Opéra,0.2772435367614095
+162,Opéra,Pyramides,0.4655048571918619
+163,Pyramides,Palais-Royal (Musée du Louvre),0.36038601141291093
+164,Palais-Royal (Musée du Louvre),Pont Neuf,0.7257127521868897
+165,Pont Neuf,Châtelet,0.4018561462882553
+166,Châtelet,Pont Marie (Cité des Arts),0.8516673660842141
+167,Pont Marie (Cité des Arts),Sully-Morland,0.4093924929669086
+168,Sully-Morland,Jussieu,0.7135543495451648
+169,Jussieu,Place Monge (Jardin des Plantes),0.3689637913006417
+170,Place Monge (Jardin des Plantes),Censier-Daubenton,0.2869774669275825
+171,Censier-Daubenton,Les Gobelins,0.49723924670877373
+172,Les Gobelins,Place d'Italie,0.5616451661951188
+173,Place d'Italie,Tolbiac,0.6121968658878536
+174,Tolbiac,Maison Blanche,0.3729456418082976
+175,Maison Blanche,Le Kremlin-Bicêtre,1.416046870715895
+176,Le Kremlin-Bicêtre,Villejuif-Léo Lagrange,0.7511547251169917
+177,Villejuif-Léo Lagrange,Villejuif-Paul Vaillant Couturier (Hôpital Paul Brousse),0.9206876474163983
+178,Villejuif-Paul Vaillant Couturier (Hôpital Paul Brousse),Villejuif-Louis Aragon,1.0435385690406338
+179,Balard,Lourmel,0.33246322175199955
+180,Lourmel,Boucicaut,0.4911168567098463
+181,Boucicaut,Félix Faure,0.3729434912096482
+182,Félix Faure,Commerce,0.230014848553261
+183,Commerce,La Motte-Picquet-Grenelle,0.545957666237572
+184,La Motte-Picquet-Grenelle,Ecole Militaire,0.8302905072157619
+185,Ecole Militaire,La Tour-Maubourg,0.4587098087165166
+186,La Tour-Maubourg,Invalides,0.5571978780952249
+187,Invalides,Concorde,0.644885337857944
+188,Concorde,Madeleine,0.5454482694696153
+189,Madeleine,Opéra,0.5310317391931922
+190,Opéra,Richelieu-Drouot,0.6170760075340718
+191,Richelieu-Drouot,Grands Boulevards,0.22341942897421035
+192,Grands Boulevards,Bonne Nouvelle,0.4242734416110441
+193,Bonne Nouvelle,Strasbourg-Saint-Denis,0.42959709304232246
+194,Strasbourg-Saint-Denis,République,0.702688720501392
+195,République,Filles du Calvaire,0.568598877715379
+196,Filles du Calvaire,Saint-Sébastien-Froissart,0.23688291383005472
+197,Saint-Sébastien-Froissart,Chemin Vert,0.3809957324911373
+198,Chemin Vert,Bastille,0.43562696533110506
+199,Bastille,Ledru-Rollin,0.5702768619263902
+200,Ledru-Rollin,Faidherbe-Chaligny,0.6341815821398342
+201,Faidherbe-Chaligny,Reuilly-Diderot,0.37638999153701286
+202,Reuilly-Diderot,Montgallet,0.38504778482736945
+203,Montgallet,Daumesnil (Félix Eboué),0.6604191811210763
+204,Daumesnil (Félix Eboué),Michel Bizot,0.6145917407606599
+205,Michel Bizot,Porte Dorée,0.2910448011627808
+206,Porte Dorée,Porte de Charenton,0.5242696717128911
+207,Porte de Charenton,Liberté,0.9318821005188622
+208,Liberté,Charenton-Ecoles,0.6597827624124316
+209,Charenton-Ecoles,Ecole Vétérinaire de Maisons-Alfort,0.9124437929947217
+210,Ecole Vétérinaire de Maisons-Alfort,Maisons-Alfort-Stade,1.3153106008995192
+211,Maisons-Alfort-Stade,Maisons-Alfort-Les Juilliottes,0.9652140660052166
+212,Maisons-Alfort-Les Juilliottes,Créteil-L'Echat (Hôpital Henri Mondor),0.7002563009704539
+213,Créteil-L'Echat (Hôpital Henri Mondor),Créteil-Université,0.7705966958364855
+214,Créteil-Université,Créteil-Préfecture (Hôtel de Ville),1.2704243140099347
+215,Créteil-Préfecture (Hôtel de Ville),Pointe du Lac,1.275679032054308
+216,Pont de Sèvres,Billancourt,0.6189788511437744
+217,Billancourt,Marcel Sembat,0.4338442402921523
+218,Marcel Sembat,Porte de Saint-Cloud,0.979843000417896
+219,Porte de Saint-Cloud,Exelmans,0.6810150514457276
+220,Exelmans,Michel-Ange-Molitor,0.27170292869113494
+221,Michel-Ange-Molitor,Michel-Ange-Auteuil,0.36146094530439404
+222,Michel-Ange-Auteuil,Jasmin,0.5701868512496608
+223,Jasmin,Ranelagh,0.3717027635318152
+224,Ranelagh,La Muette,0.4178304904394246
+225,La Muette,Rue de la Pompe (Avenue Georges Mandel),0.7395729771992177
+226,Rue de la Pompe (Avenue Georges Mandel),Trocadéro,0.6654432952851708
+227,Trocadéro,Iéna,0.5453450969472066
+228,Iéna,Alma-Marceau,0.5271278574016885
+229,Alma-Marceau,Franklin-Roosevelt,0.8090128975860853
+230,Franklin-Roosevelt,Saint-Philippe du Roule,0.4113790541115433
+231,Saint-Philippe du Roule,Miromesnil,0.3709657680755249
+232,Miromesnil,Saint-Augustin,0.3884154616708233
+233,Saint-Augustin,Havre-Caumartin,0.6122252021934672
+234,Havre-Caumartin,Chaussée d'Antin (La Fayette),0.30449984447636347
+235,Chaussée d'Antin (La Fayette),Richelieu-Drouot,0.4671237119613935
+236,Richelieu-Drouot,Grands Boulevards,0.2913055076944124
+237,Grands Boulevards,Bonne Nouvelle,0.4286438488581323
+238,Bonne Nouvelle,Strasbourg-Saint-Denis,0.4377932760701409
+239,Strasbourg-Saint-Denis,République,0.6926676621107359
+240,République,Oberkampf,0.401139515675104
+241,Oberkampf,Saint-Ambroise,0.5473164730502237
+242,Saint-Ambroise,Voltaire (Léon Blum),0.6709500084371598
+243,Voltaire (Léon Blum),Charonne,0.496449883282728
+244,Charonne,Rue des Boulets,0.4020147757193773
+245,Rue des Boulets,Nation,0.7202987525872798
+246,Nation,Buzenval,0.4002566904249375
+247,Buzenval,Maraîchers,0.3918079344202466
+248,Maraîchers,Porte de Montreuil,0.3103507291941547
+249,Porte de Montreuil,Robespierre,0.9990865490523961
+250,Robespierre,Croix-de-Chavaux (Jacques Duclos),0.9295343166422206
+251,Croix-de-Chavaux (Jacques Duclos),Mairie de Montreuil,0.6456054943764414
+252,Boulogne Pont de Saint-Cloud,Boulogne-Jean-Jaurès,0.7922194364808726
+253,Boulogne-Jean-Jaurès,Michel-Ange-Molitor,1.74262526673188
+254,Michel-Ange-Molitor,Chardon-Lagache,0.3380327492935414
+255,Chardon-Lagache,Mirabeau,0.5002777086598105
+256,Mirabeau,Javel-André-Citroen,0.36856347251279264
+257,Javel-André-Citroen,Charles Michels,0.5736267063485262
+258,Charles Michels,Avenue Emile-Zola,0.7204347996713885
+259,Avenue Emile-Zola,La Motte-Picquet-Grenelle,0.28549757110500484
+260,La Motte-Picquet-Grenelle,Ségur,0.7155132198294052
+261,Ségur,Duroc,0.7074529569040893
+262,Duroc,Vaneau,0.37618886586926575
+263,Vaneau,Sèvres-Babylone,0.434926134072684
+264,Sèvres-Babylone,Mabillon,0.6937555003446689
+265,Mabillon,Odéon,0.2783347974406704
+266,Odéon,Cluny-La Sorbonne,0.48193170876510316
+267,Cluny-La Sorbonne,Maubert-Mutualité,0.3091754278456508
+268,Maubert-Mutualité,Cardinal-Lemoine,0.37838590164784347
+269,Cardinal-Lemoine,Jussieu,0.25750091465280134
+270,Jussieu,Gare d'Austerlitz,0.7220878675554753
+271,Mairie des Lilas,Porte des Lilas,0.7376419597133297
+272,Porte des Lilas,Télégraphe,0.6048239711523583
+273,Télégraphe,Place des Fêtes,0.42612037431691385
+274,Place des Fêtes,Jourdain,0.3240692661136471
+275,Jourdain,Pyrénées,0.36160047368542725
+276,Pyrénées,Belleville,0.630443865873929
+277,Belleville,Goncourt (Hôpital Saint-Louis),0.48733185900452985
+278,Goncourt (Hôpital Saint-Louis),République,0.6429587110603215
+279,République,Arts-et-Métiers,0.5801680706724258
+280,Arts-et-Métiers,Rambuteau,0.4965552477980269
+281,Rambuteau,Hôtel de Ville,0.39969835280749616
+282,Hôtel de Ville,Châtelet,0.29425053639690285
+283,Mairie d'Issy,Corentin-Celton,0.4822437945390402
+284,Corentin-Celton,Porte de Versailles,0.8875725621740229
+285,Porte de Versailles,Convention,0.8275090061365737
+286,Convention,Vaugirard (Adolphe Chérioux),0.4277111413711574
+287,Vaugirard (Adolphe Chérioux),Volontaires,0.5518613313478392
+288,Volontaires,Pasteur,0.3760611366885223
+289,Pasteur,Falguière,0.39520888798787024
+290,Falguière,Montparnasse-Bienvenue,0.4406527041988175
+291,Montparnasse-Bienvenue,Notre-Dame des Champs,0.3664586757969052
+292,Notre-Dame des Champs,Rennes,0.3809946562600189
+293,Rennes,Sèvres-Babylone,0.3847358991242119
+294,Sèvres-Babylone,Rue du Bac,0.4874395272559489
+295,Rue du Bac,Solférino,0.3505931201027592
+296,Solférino,Assemblée Nationale,0.3831385939007531
+297,Assemblée Nationale,Concorde,0.4558882265427892
+298,Concorde,Madeleine,0.532867280374773
+299,Madeleine,Saint-Lazare,0.6438670696102025
+300,Saint-Lazare,Trinité-d'Estienne d'Orves,0.38703711729719237
+301,Trinité-d'Estienne d'Orves,Notre-Dame de Lorette,0.4474555529203455
+302,Notre-Dame de Lorette,Saint-Georges,0.28286280252978996
+303,Saint-Georges,Pigalle,0.38435286381036526
+304,Pigalle,Abbesses,0.2776886950037265
+305,Abbesses,Lamarck-Caulaincourt,0.5960990317282181
+306,Lamarck-Caulaincourt,Jules Joffrin,0.4873080959339083
+307,Jules Joffrin,Marcadet-Poissonniers,0.3942271052920663
+308,Marcadet-Poissonniers,Marx-Dormoy,0.7616804247062424
+309,Marx-Dormoy,Porte de la Chapelle,0.8443320096039717
+310,Porte de la Chapelle,Front Populaire,1.062094865678578
+311,Châtillon Montrouge,Malakoff-Rue Etienne Dolet,0.5723339814511601
+312,Malakoff-Rue Etienne Dolet,Malakoff-Plateau de Vanves,0.8617597192828197
+313,Malakoff-Plateau de Vanves,Porte de Vanves,0.7539160875457362
+314,Porte de Vanves,Plaisance,0.8283451350719147
+315,Plaisance,Pernety,0.382182939091675
+316,Pernety,Gaîté,0.6327206474199332
+317,Gaîté,Montparnasse-Bienvenue,0.3856522693665891
+318,Montparnasse-Bienvenue,Duroc,0.6368782370170083
+319,Duroc,Saint-François-Xavier,0.469806853009357
+320,Saint-François-Xavier,Varenne,0.6020605051725949
+321,Varenne,Invalides,0.4958816457027221
+322,Invalides,Champs-Elysées-Clémenceau,0.7249574923915855
+323,Champs-Elysées-Clémenceau,Miromesnil,0.6909425346563128
+324,Miromesnil,Saint-Lazare,0.6625767715782274
+325,Saint-Lazare,Liège,0.4323471065467421
+326,Liège,Place de Clichy,0.4088040992948383
+327,Place de Clichy,La Fourche,0.48394293560498636
+328,La Fourche,Brochant,0.5380412609126799
+329,Brochant,Porte de Clichy,0.6434313951407288
+330,Porte de Clichy,Mairie de Clichy,1.2211310550731718
+331,Mairie de Clichy,Gabriel-Péri,1.613706534147066
+332,Gabriel-Péri,Les Agnettes,0.9331286801401247
+333,Les Agnettes,Asnières-Gennevilliers Les Courtilles,0.835920643452997
+334,Saint-Lazare,Madeleine,0.6668468210314569
+335,Madeleine,Pyramides,0.8186452486719034
+336,Pyramides,Châtelet,1.2738880782191504
+337,Châtelet,Gare de Lyon,2.46536638547171
+338,Gare de Lyon,Bercy,0.6491530226929741
+339,Bercy,Cour Saint-Emilion,0.9897167120578866
+340,Cour Saint-Emilion,Bibliothèque-François Mitterrand,0.9052968274457267
+341,Bibliothèque-François Mitterrand,Olympiades,0.7379787998070839
+342,Olympiades,Saint-Lazare,6.209693354027797
